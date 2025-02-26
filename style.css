@@ -480,3 +480,11 @@ footer .line-footer p a {
     width: 50%;
     background: transparent;
 }
+
+.especialidades-box {
+    scroll-behavior: smooth;
+}
+
+html {
+    scroll-behavior: smooth;
+}
