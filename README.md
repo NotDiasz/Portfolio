@@ -1,8 +1,8 @@
-Portfolio
+# Portfolio
 
-Welcome to my personal portfolio! 
+<h1>Welcome to my personal portfolio! </h1>
 
-Features
+<h2>Features</h2>
 
 Responsive Design: Ensuring a seamless experience across different devices.
 
